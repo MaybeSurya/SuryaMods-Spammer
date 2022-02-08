@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> ╔»⟦★𝗤𝗡𝗥★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT </b>
+  <b> SURYA SPAM BOT </b>
 </h1>
 <h1 align="center">
   <b>Ꭺ ᏢOᏔᎬᎡҒႮᏞ SᑭᗩᗰᗰEᖇ ᗷOT ᏔᎻᏆᏟᎻ ᏔOᎡᏦ OΝ TᎬᏞᎬᏀᎡᎪᎷ ᏴᎪՏᎬᎠ OΝ TᎬᏞᎬTᎻOΝ. ᏴᎽ ᎠᎬᏢᏞOᎽᏆΝᏀ/ᎻOՏTᏆΝᏀ TᎻᏆՏ Ⴎ ᏟᎪΝ ՏᏢᎪᎷ OΝ TᎬᏞᎬᏀᎡᎪᎷ ᏴᎽ OΝᎬ ᏟOᎷᎷᎪΝᎠ TO 30 ᎪᏟᏟOႮΝT ᎪT OΝᎬ TᏆᎷᎬ.</b>
@@ -33,8 +33,11 @@ Any queries or issue contact
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/QnrOtusChat)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Qnr_Otus)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/SuryaModChat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/SuryaModsYT)
 
 ------
 ## CREDITS
 - [Qnr-Official](https://t.me/UnSupportedName)
 - [Team-Rood](https://t.me/Rood_Gamer)
+- [SuryaModsYT](https://t.me/SuryaModOwner)
