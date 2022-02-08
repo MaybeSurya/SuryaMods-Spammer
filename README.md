@@ -28,7 +28,7 @@
 - [![GenerateString](https://img.shields.io/badge/GENRATE%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/sessiongenro_bot)
 ### Contact Support
 Any queries or issue contact 
-- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/UnSupportedName)
+- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/SuryaModOwner)
 
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/QnrOtusChat)
