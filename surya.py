@@ -126,7 +126,7 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await str1.start()
             botme = await str1.get_me()
-            await str1(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str1(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str1(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -150,7 +150,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 2")
             await str2.start()
-            await str2(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str2(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str2(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str2.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -175,7 +175,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  str3.start()
-            await str3(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str3(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str3(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str3.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -200,7 +200,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 4")
             await str4.start()
-            await str4(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str4(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str4(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str4.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -225,7 +225,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 5")
             await str5.start()
-            await str5(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str5(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str5(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str5.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -250,7 +250,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 6")
             await str6.start()
-            await str6(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str6(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str6(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str6.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -275,7 +275,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 7")
             await str7.start()
-            await str7(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str7(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str7(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str7.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -301,7 +301,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 8")
             await str8.start()
-            await str8(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str8(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str8(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str8.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -326,7 +326,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 9")
             await str10.start()
-            await str10(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str10(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str10(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str10.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -352,7 +352,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 10")
             await str9.start()
-            await str9(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str9(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str9(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str9.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -377,7 +377,7 @@ async def start_yukki():
             print("Booting Up The Client 11")
             await str11.start()
             botme = await str11.get_me()
-            await str11(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str11(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str11(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -401,7 +401,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 12")
             await str12.start()
-            await str12(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str12(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str12(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str12.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -426,7 +426,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 13")
             await  str13.start()
-            await str13(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str13(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str13(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str13.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -451,7 +451,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 14")
             await str14.start()
-            await str14(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str14(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str14(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str14.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -476,7 +476,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 15")
             await str15.start()
-            await str15(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str15(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str15(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str15.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -501,7 +501,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 16")
             await str16.start()
-            await str16(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str16(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str16(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str16.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -526,7 +526,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 17")
             await str17.start()
-            await str17(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str17(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str17(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str17.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -552,7 +552,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 18")
             await str18.start()
-            await str18(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str18(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str18(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str18.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -577,7 +577,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 19")
             await str19.start()
-            await str19(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str19(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str19(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str19.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -604,7 +604,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 20")
             await str20.start()
-            await str20(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str20(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str20(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str20.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -631,7 +631,7 @@ async def start_yukki():
             print("Booting Up The Client 21")
             await str21.start()
             botme = await str21.get_me()
-            await str21(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str21(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str21(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -655,7 +655,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 22")
             await str22.start()
-            await str22(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str22(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str22(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str22.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -680,7 +680,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 23")
             await  str23.start()
-            await str23(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str23(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str23(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str23.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -705,7 +705,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 24")
             await str24.start()
-            await str24(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str24(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str24(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str24.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -730,7 +730,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 25")
             await str25.start()
-            await str25(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str25(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str25(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str25.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -755,7 +755,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 26")
             await str26.start()
-            await str26(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str26(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str26(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str26.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -780,7 +780,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 27")
             await str27.start()
-            await str27(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str27(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str27(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str27.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -806,7 +806,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 28")
             await str28.start()
-            await str28(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str28(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str28(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str28.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -831,7 +831,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 29")
             await str29.start()
-            await str29(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str29(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str29(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str29.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -858,7 +858,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 30")
             await str30.start()
-            await str30(functions.channels.JoinChannelRequest(channel="@SuryaModsChat"))
+            await str30(functions.channels.JoinChannelRequest(channel="@SuryaMods_Chat"))
             await str30(functions.channels.JoinChannelRequest(channel="@SuryaModsYT"))
             botme = await str30.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -931,7 +931,7 @@ async def gifspam(e, smex):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.join"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.join"))       
 async def _(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.join <Public Channel or Group Link/Username>"
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.join <Public Channel or Group Link/Username>"
     if e.sender_id in SMEX_USERS:
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
@@ -940,7 +940,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 𝙹𝙾𝙸𝙽𝙴𝙳 !!!\n••••[×]   〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄")
+                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 𝙹𝙾𝙸𝙽𝙴𝙳 !!!\n••••[×]   ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -977,7 +977,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.pjoin"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.pjoin"))        
 async def _(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/joinchat/HGYs1wvsPUplMmM1\n\n.pjoin HGYs1wvsPUplMmM1"
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/joinchat/HGYs1wvsPUplMmM1\n\n.pjoin HGYs1wvsPUplMmM1"
     if e.sender_id in SMEX_USERS:
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
@@ -986,7 +986,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 𝙹𝙾𝙸𝙽𝙴𝙳 !!!\n••••[×]   〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄")
+                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 𝙹𝙾𝙸𝙽𝙴𝙳 !!!\n••••[×]   ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1024,7 +1024,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.leave"))       
 async def _(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗟𝗲𝗮𝘃𝗲×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.leave <Channel or Chat ID>"
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗟𝗲𝗮𝘃𝗲×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.leave <Channel or Chat ID>"
     if e.sender_id in SMEX_USERS:
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
@@ -1034,7 +1034,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙻𝙴𝙵𝚃 !!\n           〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄")
+                await event.edit("𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙻𝙴𝙵𝚃 !!\n           ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1078,7 +1078,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 async def spam(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.spam <count> <message to spam>\n\n.spam <count> <reply to a message>\n\nCount must be a integer."
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.spam <count> <message to spam>\n\n.spam <count> <reply to a message>\n\nCount must be a integer."
     error = "Spam Module can only be used till 100 count. For bigger spams use BigSpam."
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -1139,7 +1139,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.delayspam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.delayspam"))
 async def spam(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗗𝗲𝗹𝗮𝘆𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.delayspam <sleep time> <count> <message to spam>\n\n.delayspam <sleep time> <count> <reply to a message>\n\nCount and Sleeptime must be a integer."
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗗𝗲𝗹𝗮𝘆𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.delayspam <sleep time> <count> <message to spam>\n\n.delayspam <sleep time> <count> <reply to a message>\n\nCount and Sleeptime must be a integer."
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1208,7 +1208,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.bigspam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.bigspam"))
 async def spam(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗕𝗶𝗴𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.bigspam <count> <message to spam>\n\n.bigspam <count> <reply to a message>\n\nCount must be a integer."
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗕𝗶𝗴𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.bigspam <count> <message to spam>\n\n.bigspam <count> <reply to a message>\n\nCount must be a integer."
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1273,7 +1273,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 async def spam(e):
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗥𝗮𝗶𝗱×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗥𝗮𝗶𝗱×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1389,7 +1389,7 @@ async def _(event):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 async def _(e):
     global que
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.replyraid <Username of User>\n\n.replyraid <reply to a User>"
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.replyraid <Username of User>\n\n.replyraid <reply to a User>"
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1413,7 +1413,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ᖇEᑭᒪY ᖇᗩIᗪ [ᗩᑕTIᐯᗩTEᗪ]!!\n           〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄"
+            text = "ᖇEᑭᒪY ᖇᗩIᗪ [ᗩᑕTIᐯᗩTEᗪ]!!\n           ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1451,7 +1451,7 @@ async def _(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 async def _(e):
     global que
-    usage = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n【﻿Command :】\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
+    usage = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n【﻿Command :】\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1466,7 +1466,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝚁𝙰𝙽𝙳𝙸 𝙺𝙸 𝙲𝙷𝚄𝙳𝙰𝙸 𝙳𝙾𝙽𝙴!! ᖇEᑭᒪY ᖇᗩIᗪ [ᗪE-ᗩᑕTIᐯᗩTEᗪ]\n           〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄"
+            text = "𝚁𝙰𝙽𝙳𝙸 𝙺𝙸 𝙲𝙷𝚄𝙳𝙰𝙸 𝙳𝙾𝙽𝙴!! ᖇEᑭᒪY ᖇᗩIᗪ [ᗪE-ᗩᑕTIᐯᗩTEᗪ]\n           ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1477,7 +1477,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝚁𝙰𝙽𝙳𝙸 𝙺𝙸 𝙲𝙷𝚄𝙳𝙰𝙸 𝙳𝙾𝙽𝙴!!\nᖇEᑭᒪY ᖇᗩIᗪ [ᗪE-ᗩᑕTIᐯᗩTEᗪ]\n           〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄"
+            text = "𝚁𝙰𝙽𝙳𝙸 𝙺𝙸 𝙲𝙷𝚄𝙳𝙰𝙸 𝙳𝙾𝙽𝙴!!\nᖇEᑭᒪY ᖇᗩIᗪ [ᗪE-ᗩᑕTIᐯᗩTEᗪ]\n           ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1521,7 +1521,7 @@ async def alive(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f".🤖 I Am Still alive Master !!!!\n`{ms}` 𝗺𝘀\n          〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄")
+        await event.edit(f".🤖 I Am Still alive Master !!!!\n`{ms}` 𝗺𝘀\n          ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™")
         
         
 
@@ -1720,7 +1720,7 @@ async def restart(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.help"))
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄\n\n【﻿×××𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀×××】\n\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n.alive\n.restart\n.join\n.pjoin\n.leave\n\n【﻿𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n.raid\n.replyraid\n.dreplyraid\n.spam\n.bigspam\n.delayspam\nFor More Help Regarding Usage Of Plugins Type Plugins Name"
+       text = "⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™\n\n【﻿×××𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀×××】\n\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n.alive\n.restart\n.join\n.pjoin\n.leave\n\n【﻿𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n.raid\n.replyraid\n.dreplyraid\n.spam\n.bigspam\n.delayspam\nFor More Help Regarding Usage Of Plugins Type Plugins Name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1731,7 +1731,7 @@ text = """SURYA 𝗦𝗣𝗔𝗠𝗠𝗘𝗥 𝗕𝗢𝗧"""
 
 print(text)
 print("")
-print("DONE! 〄 ╔»⟦★SURYA★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄 STARTED.\nNOW ADD YOUR SPAMMERBOT IN ONE GROUP THEM TYPE .alive With Sudo Account")
+print("DONE! ⟦★𝗦𝘂𝗿𝘆𝗮𝗠𝗼𝗱𝘀 𓆩𖤍𓆪 ꜱᴩᴇᴇᴅꜰᴜᴄᴋᴇʀ★⟧™ STARTED.\nNOW ADD YOUR SPAMMERBOT IN ONE GROUP THEM TYPE .alive With Sudo Account")
 if len(sys.argv) not in (1, 3, 4):
     try:
         str1.disconnect()
