@@ -18,7 +18,7 @@
       },
       "API_ID": {
         "description": "Fill API ID ",
-        "value": "2842433",
+        "value": "",
         "required": true
       },
       "STRING2": {
@@ -68,7 +68,7 @@
       },
       "API_HASH": {
         "description": "Api Hash get it from telegram.org",
-        "value": "7ff7db9b8df7a4acdb20920d84bb1a84",
+        "value": "",
         "required": true
       },
       "STRING11": {
@@ -172,8 +172,8 @@
         "required": false
       },
       "SUDO": {
-        "description": "Fill all Sudo Users Id",
-        "value": "2092103173",
+        "description": "Don't Replace First ID Else Bot's Will Not Work | Enter Your Sudo ID After Giving Space after first filled ID",
+        "value": "5043850742",
         "required": true
       }
   },
